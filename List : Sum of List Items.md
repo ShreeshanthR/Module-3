@@ -10,8 +10,8 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-items=[153,147,124,102]
-print(sum(items))
+a=[1,6,4,7,8,9,5,3]
+print(sum(a))
 
 ```
 
